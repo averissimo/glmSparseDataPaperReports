@@ -3,7 +3,7 @@
 Links to result reports
 
 * Brain Lower Grade Glioma [LGG link](https://averissimo.github.io/glmSparseDataPaperReports/lgg-center-5000.html)
-* Breast Invasive Carcinoma [BRCA](https://averissimo.github.io/glmSparseDataPaperReports/brca-center-5000.html)
+* Breast Invasive Carcinoma [BRCA link](https://averissimo.github.io/glmSparseDataPaperReports/brca-center-5000.html)
 * Kidney Renal Clear Cell Carcinoma [KIRC link](https://averissimo.github.io/glmSparseDataPaperReports/kirc-center-5000.html)
 * Lung Adenocarcinoma [LUAD link](https://averissimo.github.io/glmSparseDataPaperReports/luad-center-5000.html)
 * Prostate Adenocarcinoma [PRAD link](https://averissimo.github.io/glmSparseDataPaperReports/prad-center-5000.html)
